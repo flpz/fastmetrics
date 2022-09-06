@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /fastfiber.php
+Disallow: /downloads/vpnclient/MacOSX/anyconnect-macosx-i386-3.0.5080-k9.pkg
+Disallow: /downloads/vpnclient/vpn-client-guide.pdf
+Disallow: /signup.php
+Disallow: /packages.php
+Disallow: /email-hosting-service.php
+Disallow: /termsofservice.php
+Disallow: /usepolicy.php
+Disallow: /docs/
+Disallow: //
+Disallow: /fastmetrics-fiber
+Disallow: /fastmetrics-ethernet
+Disallow: /fastmetrics-voice
+Disallow: /assets/
+
+Sitemap: https://www.fastmetrics.com/sitemap.xml
+Sitemap: https://www.fastmetrics.com/blog/sitemap_index.xml
+Sitemap: https://www.fastmetrics.com/blog/post-sitemap.xml
+Sitemap: https://www.fastmetrics.com/blog/category-sitemap.xml
+Sitemap: https://www.fastmetrics.com/support/sitemap_index.xml
+Sitemap: https://www.fastmetrics.com/support/page-sitemap.xml
+Sitemap: https://www.fastmetrics.com/support/resource-sitemap.xml
+Sitemap: https://www.fastmetrics.com/support/post-sitemap.xml
